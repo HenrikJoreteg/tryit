@@ -1,0 +1,17 @@
+{
+  "name": "tryit",
+  "version": "1.0.0",
+  "description": "Module to wrap try-catch for better performance and cleaner API.",
+  "main": "tryit.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HenrikJoreteg/tryit.git"
+  },
+  "keywords": [
+    "errors",
+    "try",
+    "errorhandling"
+  ],
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "license": "MIT"
+}
