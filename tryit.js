@@ -3,7 +3,7 @@
 // and provides a cleaner API.
 module.exports = function (fn, cb) {
     try {
-        fn();
+        return fn();
         if (cb) cb(null);
     } catch (e) {
         if (cb) cb(e);
