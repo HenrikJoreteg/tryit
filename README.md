@@ -2,7 +2,7 @@
 
 Tiny module wrapping try/catch in JavaScript. 
 
-It's *literally 8 lines of code*, [just read it](tryit.js) that's all the documentation you'll need.
+It's *literally 11 lines of code*, [just read it](tryit.js) that's all the documentation you'll need.
 
 
 ## install
