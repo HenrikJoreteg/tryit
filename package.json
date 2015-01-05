@@ -1,7 +1,7 @@
 {
   "name": "tryit",
   "description": "Module to wrap try-catch for better performance and cleaner API.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Henrik Joreteg <henrik@andyet.net>",
   "devDependencies": {
     "tap-spec": "^2.1.2",
