@@ -3,6 +3,9 @@
   "description": "Module to wrap try-catch for better performance and cleaner API.",
   "version": "1.0.1",
   "author": "Henrik Joreteg <henrik@andyet.net>",
+  "files": [
+    "tryit.js"
+  ],
   "devDependencies": {
     "tap-spec": "^2.1.2",
     "tape": "^3.0.3"
