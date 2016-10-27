@@ -1,7 +1,7 @@
 {
   "name": "tryit",
   "description": "Module to wrap try-catch for better performance and cleaner API.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Henrik Joreteg <henrik@andyet.net>",
   "files": [
     "tryit.js"
