@@ -33,9 +33,9 @@ You can also handle the error by passing a second function
 ```js
 tryit(dangerousThing, function (e) {
     if (e) {
-        console.log('do something');
+        window.location.href = "http://stackoverflow.com/search?q=[js]"+e.message;
     }
-})
+});
 ```
 
 The second function follows error-first pattern common in node. So if you pass a callback it gets called in both cases. But will have an error as the first argument if it fails.
